@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Main/Main.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StructureAndClasses/StructureAndClasses.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Properties/Properties.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Methods/Methods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Subscripts/Subscripts.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Inheritences/Inheritences.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Initializer/Initializer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Deinitialization/Deinitialization.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OptionalChaining/OptionalChaining.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ErrorHandling/ErrorHandling.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TypeCasting/TypeCasting.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Extension/Extension.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Protocol/Protocol.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Generic/Generic.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OpaqueType/OpaqueType.xcodeproj">
+   </FileRef>
+</Workspace>
