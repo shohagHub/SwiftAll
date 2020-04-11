@@ -46,4 +46,10 @@
    <FileRef
       location = "group:OpaqueType/OpaqueType.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:ARC/ARC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Collection/Collection.xcodeproj">
+   </FileRef>
 </Workspace>
